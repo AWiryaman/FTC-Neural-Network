@@ -1,6 +1,5 @@
-# ImagineThisChallenge3
+# FTC Neural Network
 
-For FTC#4029 2 Bits and a Byte Imagine This Challenge 3
 
 This program uses scores from FTC Super Regionals competitions creates matrices and calculates OPR, CCWM and DPR. These statistics are then fed through a neural network to train it to be able to predict future matches. Essentially it weighs each of these stats to be able to determine how important they are to winning. 
 
